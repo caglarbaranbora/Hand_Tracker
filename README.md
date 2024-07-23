@@ -2,7 +2,7 @@
 
 
 ## EN
-**[Click Here for More Detailed Information](https://link_to_more_info.com)**
+**[Click Here for More Detailed Information]([https://link_to_more_info.com](https://caglarbaranbora.medium.com/hand-tracker-f72c20d14e3d))**
 
 Hand_Tracker is a project developed to create hand tracking and detection technologies using computer vision. The project aims to provide solutions that can be applied in various application areas by tracking hand movements in real-time.
 
@@ -53,7 +53,7 @@ For questions or feedback, you can reach out via:
 
 ## TR
 
-**[Daha Detaylı Bilgi İçin Tıklayın](https://link_to_more_info.com)**
+**[Daha Detaylı Bilgi İçin Tıklayın]([https://link_to_more_info.com](https://caglarbaranbora.medium.com/el-tarama-65a870ed4879))**
 
 Hand_Tracker, bilgisayarlı görü (Computer Vision) kullanarak el izleme ve algılama teknolojileri geliştiren bir projedir. Proje, kullanıcıların el hareketlerini gerçek zamanlı olarak izleyerek çeşitli uygulama alanlarında kullanılabilecek çözümler sunmayı amaçlamaktadır.
 
