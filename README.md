@@ -1,5 +1,60 @@
 # Hand_Tracker
 
+
+## EN
+**[Click Here for More Detailed Information](https://link_to_more_info.com)**
+
+Hand_Tracker is a project developed to create hand tracking and detection technologies using computer vision. The project aims to provide solutions that can be applied in various application areas by tracking hand movements in real-time.
+
+## Project Summary
+
+This project utilizes OpenCV and MediaPipe libraries to track and analyze hand movements. Its advanced algorithms provide high accuracy and speed, making it suitable for real-time applications.
+
+## Technologies Used
+
+- **Python:** The primary language used for development.
+- **OpenCV:** Utilized for image processing.
+- **MediaPipe:** Provides hand tracking algorithms.
+
+## Installation
+
+To run the project locally, follow these steps:
+
+### Install Dependencies
+
+Install the required libraries for the project:
+```bash
+pip install mediapipe opencv
+```
+
+## Run the Application
+Execute the project file to start hand tracking:
+```bash
+python hand_tracker.py
+```
+### Usage
+Open your camera to begin tracking hand movements.
+Hand positions and key points will be visualized in the interface.
+### Contribution
+To contribute to this project, please follow these steps:
+
+- Fork this repository.
+- Create a new branch for your changes.
+- Commit your changes.
+- Push your changes to the branch.
+- Open a pull request.
+
+### Contact
+For questions or feedback, you can reach out via:
+
+- E-Mail: boracaglarbaran@gmail.com
+- **[Medium](https://medium.com/@caglarbaranbora)**
+ - **[LinkedIn](https://www.linkedin.com/in/caglarbaranbora/)** 
+
+## TR
+
+**[Daha Detaylı Bilgi İçin Tıklayın](https://link_to_more_info.com)**
+
 Hand_Tracker, bilgisayarlı görü (Computer Vision) kullanarak el izleme ve algılama teknolojileri geliştiren bir projedir. Proje, kullanıcıların el hareketlerini gerçek zamanlı olarak izleyerek çeşitli uygulama alanlarında kullanılabilecek çözümler sunmayı amaçlamaktadır.
 
 ## Proje Özeti
@@ -44,6 +99,5 @@ python hand_tracker.py
 Sorularınız veya geri bildirimleriniz için aşağıdaki yollarla iletişime geçebilirsiniz:
 
 - E-posta: boracaglarbaran@gmail.com
- - Medium: www.medium.com/@caglarbaranbora
- - LinkedIn: www.linkedin.com/in/caglarbaranbora/
-
+ - **[Medium](https://medium.com/@caglarbaranbora)**
+ - **[LinkedIn](https://www.linkedin.com/in/caglarbaranbora/)** 
